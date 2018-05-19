@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "react-testing-library";
-import Joke from "../joke";
+import Joke from "../Joke";
 import "dom-testing-library/extend-expect";
 
 test("Joke comp receives props and then renders text", () => {
